@@ -1,0 +1,21 @@
+import {scaleSize} from './mixins';
+
+export const SIZE_100 = scaleSize(100);
+export const SIZE_70 = scaleSize(70);
+export const SIZE_60 = scaleSize(60);
+export const SIZE_55 = scaleSize(55);
+export const SIZE_50 = scaleSize(50);
+export const SIZE_40 = scaleSize(40);
+export const SIZE_30 = scaleSize(30);
+export const SIZE_25 = scaleSize(25);
+export const SIZE_24 = scaleSize(24);
+export const SIZE_20 = scaleSize(20);
+export const SIZE_18 = scaleSize(18);
+export const SIZE_16 = scaleSize(16);
+export const SIZE_15 = scaleSize(15);
+export const SIZE_12 = scaleSize(12);
+export const SIZE_10 = scaleSize(10);
+export const SIZE_8 = scaleSize(8);
+export const SIZE_6 = scaleSize(6);
+export const SIZE_4 = scaleSize(4);
+export const SIZE_2 = scaleSize(2);

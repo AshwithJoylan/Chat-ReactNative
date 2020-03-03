@@ -1,0 +1,19 @@
+export const BLACK = '#000';
+export const WHITE = '#fff';
+export const TRANSPARENT = 'transparent';
+export const LIGHT_GREY = '#EAEAEA';
+export const LIGHT_WHITE = 'rgba(255, 255, 255, 0.1)';
+export const SUCCESS = '#3adb76';
+export const WARNING = '#ffae00';
+export const ALERT = '#cc4b37';
+export const DARK_GREEN = '#23B764';
+export const LIGHT_BLACK = '#4B443F';
+// Brand Color
+export const PRIMARY = '#0ED2B3';
+export const BACKGROUND = '#F9F9F9';
+export const LIGHT_TEXT = '#8A8B90';
+export const DARK_TEXT = '#212121';
+export const SECONDARY = '';
+export const LIGHT_BLUE = '#E9F6F9';
+export const LIGHT_ORANGE = '#FFF7E4';
+export const LIGHTER_TEXT = '#B5B5B5';
