@@ -2,6 +2,8 @@
 
 ## Simlpe one to one caht UI
 
+### UI credits: https://dribbble.com/shots/8172160-Design-Mentor-App
+
 ScreenShots
 
  Login | Register
