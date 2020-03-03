@@ -2,7 +2,7 @@
 
 ## Simlpe one to one caht UI
 
-### UI credits: https://dribbble.com/shots/8172160-Design-Mentor-App
+### UI credits: Surja Sen Das Raj -> https://dribbble.com/shots/8172160-Design-Mentor-App
 
 ScreenShots
 
